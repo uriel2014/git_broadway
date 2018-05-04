@@ -1,6 +1,10 @@
 .section1 {
-
+  background-image: url("the-flatiron-building.png");
 }
 body {
+  text-align: center;
+}
+.section1 h1{
+  color: white;
 
 }
